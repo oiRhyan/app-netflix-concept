@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png">
+  <img src="logo (2).png">
   <h1> Netflix: Android Interface Concept </h1>
 </div>
 
@@ -23,7 +23,7 @@ Interface conceitual da Netflix feita em ConstraintLayout e MaterialDesigner3
 Este projeto tem como objetivo demonstrar a construção de layouts XML utilizando o ConstraintLayout. A interface faz uso de Guidelines para posicionar itens e centralizar textos e botões. Além disso, é empregado o sistema de cores OnPrimary e diversos recursos para configurações de temas escuro/claro. O projeto também se destaca pela responsividade dos elementos, garantindo que a interface se adapte a qualquer tamanho de tela.
 
 <div>
- <img src="alcool_gasolina.gif">
+ <img src="netflix_preview.png">
 </div>
 
 
